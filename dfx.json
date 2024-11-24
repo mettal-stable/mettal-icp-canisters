@@ -34,10 +34,5 @@
     }
   },
   "output_env_file": ".env",
-  "version": 1,
-  "networks": {
-    "local": {
-      "bind": "127.0.0.1:8080"
-    }
-  }
+  "version": 1
 }
