@@ -7,5 +7,5 @@
 
 dfx generate
 dfx deps pull
-dfx deps deploy 
-dfx deploy 
+dfx deps deploy  -network dev
+dfx deploy -network dev
