@@ -88,4 +88,4 @@ dfx canister call icrc1_index_canister get_account_transactions '(record{account
 
 
 
-dfx canister call icrc1_index_canister get_account_transactions '(record{account=record {owner = principal "hsm4o-bznht-qamu5-zescv-gqrgn-wjwa2-4krco-r57ql-lj3fj-7cedg-eae"}; max_results=2:nat})'
+dfx canister call icrc1_index_canister get_account_transactions '(record{account=record {owner = principal "jg5kc-l42ga-pi736-iqsai-ksyzn-zwfyp-3cjag-nudoj-3scer-m3jwp-4qe"}; max_results=2:nat})'
