@@ -11,7 +11,7 @@
       "candid": "https://raw.githubusercontent.com/dfinity/ic/aba60ffbc46acfc8990bf4d5685c1360bd7026b9/rs/ledger_suite/icrc1/ledger/ledger.did",
       "wasm": "https://download.dfinity.systems/ic/aba60ffbc46acfc8990bf4d5685c1360bd7026b9/canisters/ic-icrc1-ledger.wasm.gz",
 
-      "init_arg": "(variant { Init = record { minting_account =  record{ owner = principal  \"be2us-64aaa-aaaaa-qaabq-cai\"; }; decimals= opt 2;  transfer_fee = 0_000 : nat; token_symbol = \"MXND\"; initial_balances = vec {}; metadata = vec {}; token_name = \"Mettal Coin\"; max_supply=0; fee_collector_account=null;   archive_options=record{num_blocks_to_archive=0:nat64;max_transactions_per_response=null;trigger_threshold=0:nat64;more_controller_ids=null;max_message_size_bytes=null;cycles_for_archive_creation=null;node_max_memory_size_bytes=null;feature_flags = opt record{icrc2 = true;icrc3=true };controller_id=principal\"5j56q-yerxa-yvyft-lt6dp-gasf3-gaptg-7s2og-2ecrm-u5qb7-crbc4-sae\";}; } })",
+      "init_arg": "(variant { Init = record { minting_account =  record{ owner = principal  \"be2us-64aaa-aaaaa-qaabq-cai\"; }; decimals= opt 2;  transfer_fee = 0_000 : nat; token_symbol = \"MXND\"; initial_balances = vec {}; metadata = vec {}; token_name = \"Mettal Coin\"; max_supply=0; fee_collector_account=null;   archive_options=record{num_blocks_to_archive=0:nat64;max_transactions_per_response=null;trigger_threshold=0:nat64;more_controller_ids=null;max_message_size_bytes=null;cycles_for_archive_creation=null;node_max_memory_size_bytes=null;feature_flags = opt record{icrc2 = true;icrc3=true };controller_id=principal\"hxdrg-c5lyh-bmfna-xyae5-fv6tq-lj6mb-xsubn-spk2v-lmwxy-ww5bq-uqe\";}; } })",
       "specified_id": "br5f7-7uaaa-aaaaa-qaaca-cai"
     },
     "icrc1_index_canister": {

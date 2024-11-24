@@ -5,6 +5,6 @@
 #controller_id prod
 #export CONTROLLER_ID=5j56q-yerxa-yvyft-lt6dp-gasf3-gaptg-7s2og-2ecrm-u5qb7-crbc4-sae
 
-dfx deps deploy 
 dfx generate
+dfx deps deploy 
 dfx deploy 
