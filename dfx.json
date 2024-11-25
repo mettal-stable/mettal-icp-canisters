@@ -34,6 +34,5 @@
     }
   },
   "output_env_file": ".env",
-  "version": 1,
-  "hostname": "replica.crossbnkdev.com"
+  "version": 1
 }
