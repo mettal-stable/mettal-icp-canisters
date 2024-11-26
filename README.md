@@ -97,9 +97,9 @@ This guide explains how to use the demo function of the Mettal Dashboard, which 
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/1.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/2.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/3.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/4.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/5.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/6.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/7.jpeg">  |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/1.png"> get_transactions  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/2.png"> icrcl_metadata |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/3.png"> about the token |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/4.png">  get_account_transactions |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/5.png"> get_blocks |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/6.png"> icrcl_balance_of |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/7.jpeg"> User Dashboard Balance |
 
 For any additional support or questions, please contact the Mettal
 
