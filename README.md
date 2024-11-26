@@ -93,6 +93,7 @@ This guide explains how to use the demo function of the Mettal Dashboard, which 
 
 ---
 
+
 ### Gallery
 
 | | | |
@@ -100,6 +101,26 @@ This guide explains how to use the demo function of the Mettal Dashboard, which 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/1.png"> get_transactions  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/2.png"> icrcl_metadata |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/3.png"> about the token |
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/4.png">  get_account_transactions |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/5.png"> get_blocks |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/6.png"> icrcl_balance_of |
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/7.jpeg"> User Dashboard Balance |
+
+
+
+### ICP Frontend  Integration
+#### To Canister ledger : 
+```path
+  src/lib/transactions/data/icp/icp-canister.adapter.ts  
+```
+
+####  To Internet Identity  : 
+```path 
+ src/lib/auth/data/icp.provider.ts
+```
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/8.png"> Canister Ledger Frontend Integration  |  <img width="1604" alt="" src="https://s3.us-east-1.amazonaws.com/dash.mettal.mx/repository/9.png"> Internet Identity Integration
+
+
+
 
 For any additional support or questions, please contact the Mettal
 
