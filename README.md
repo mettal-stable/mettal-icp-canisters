@@ -69,4 +69,29 @@ Backend Canisters via Candid Interface:
 - 	Users, logged in using Internet Identity, can approve the Minter Owner to transfer tokens to the Minter Canister. This is done using the icrc2_approve method on the ICRC Ledger.
 - 	The Minter Owner calls the Minter Canister to transfer the approved token amount from the user's principal to the canister using the icrc2_transfer_from method.
 
+---
+
+### About the Demo
+
+This guide explains how to use the demo function of the Mettal Dashboard, which allows the Owner of the application to reward users for completing a KYC (Know Your Customer) process. Upon completion, users can sell Mettal Coin (MXND) for Mexican pesos.
+
+#### 1. Create an Account on Mettal Dashboard
+- Visit the **Mettal Dashboard** website and sign up for an account.
+
+#### 2. Link Your Account to Internet Identity
+- Log in to the Mettal Dashboard using **Internet Identity** and link your account to ensure secure access.
+
+#### 3. Complete the KYC Process
+- Start and complete the KYC (Know Your Customer) process by following the steps provided on the dashboard.
+- Once your KYC is verified and complete, you will receive a notification confirming that tokens have been credited to your wallet.
+
+#### 4. Sell Tokens for Mexican Pesos
+- Use the **Sell Tokens** option to exchange your Mettal Coins (MXND) for Mexican pesos:
+  - The tokens will be transferred back to the **Mint Account**.
+  - The tokens will be burned as part of the process.
+  - The equivalent payment will be sent directly to your linked bank account.
+
+---
+
+For any additional support or questions, please contact the Mettal
 
