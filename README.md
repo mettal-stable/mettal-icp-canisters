@@ -52,7 +52,7 @@ Backend Canisters via Candid Interface:
 - mettal_token_ledger:
 - http://127.0.0.1:8080/?canisterId=bnz7o-iuaaa-aaaaa-qaaaa-cai&id=br5f7-7uaaa-aaaaa-qaaca-cai
 
-- mettal_token_transfer:
+- mettal_token_transfer: (Minter Canister)
 - http://127.0.0.1:8080/?canisterId=bnz7o-iuaaa-aaaaa-qaaaa-cai&id=be2us-64aaa-aaaaa-qaabq-cai
 
 
