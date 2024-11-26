@@ -17,6 +17,11 @@ The Frontend is a hybrid web application developed in React and hosted on Amazon
 
 ## Deployment Steps
 
+#### Clone Repository from:
+```
+git@github.com:mettal-stable/mettal-icp-canisters.git
+```
+
 1. Navigate to the `mettal-icp-canisters` directory:
 ```bash
 cd mettal-icp-canisters
